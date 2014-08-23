@@ -350,6 +350,7 @@ with
 image
 sequence
 handling
+
 (2)Serotonin
 receptor
 identification
@@ -357,6 +358,7 @@ in
 2D
 or
 3D
+
 (a)Full
 data
 output
@@ -366,6 +368,7 @@ workspace
 and/or
 Microsoft
 Excel
+
 (b)Annotated
 output
 images
@@ -376,22 +379,26 @@ id
 data
 to
 image
+
 (c)Auto
 generates
 receptor
 characterizing
 plots
+
 (d)Allows
 auto
 or
 interactive
 user
 thresholding
+
 (3)3D
 rendering
 of
 data
 set
+
 (a) Colored
 coded
 volume
@@ -400,6 +407,7 @@ based
 on
 receptor
 size
+
 (4) Conversion
 of
 3D
@@ -414,12 +422,15 @@ via
 max
 z
 projection
+
 (5) Image
 Histogram
+
 (6) Basic
 image
 arithmetic
 operations
+
 (7) Detailed
 User’s
 Manual
