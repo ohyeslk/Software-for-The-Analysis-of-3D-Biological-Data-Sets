@@ -10,14 +10,13 @@ At all design stages, the project technical requirements were of equal importanc
 
 (1)Image I/O with image sequence handling
 
-(2)Serotonin receptor identification in 2D or 3D
+(2)Serotonin receptor identification in 2D or 3D:
   (a)Full data output to MATLAB workspace and/or Microsoft Excel
   (b)Annotated output images for corresponding receptor id data to image
   (c)Auto generates receptor characterizing plots
   (d)Allows auto or interactive user thresholding
   
-(3)3D rendering of data set
-  (a) Colored coded volume visualization based on receptor size
+(3)3D rendering of data set: Colored coded volume visualization based on receptor size
   
 (4) Conversion of 3D data set to usable 2D data set via max z projection
 
